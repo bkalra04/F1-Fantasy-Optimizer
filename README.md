@@ -5,7 +5,6 @@
 ![Status](https://img.shields.io/badge/status-in%20development-orange?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastF1](https://img.shields.io/badge/data-FastF1-E10600?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-informational?style=flat-square)
 
 > **Work in progress.** This repository documents an active project. The design and methodology below are settled; implementation is underway. Nothing here reports results yet — findings will be added as each phase is validated.
 
